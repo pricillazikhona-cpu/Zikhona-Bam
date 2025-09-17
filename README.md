@@ -22,9 +22,9 @@ PORTFOLIO
 - ![Learning](https://img.shields.io/badge/Continuous%20Learning-FF6F00?style=for-the-badge&logo=coursera&logoColor=white) **Professional Development (Coursera & More)**  
 
 ## 📂 Featured Projects
-🔹 [AI Study Buddy](#) – Portfolio project with Keras conversion  
 🔹 [Portfolio Website](#) – Showcasing skills, certificates, and projects  
-🔹 [AI Blog Weaver](#) – Exploring automation & AI for IT workflows
+🔹 [AI Blog Weaver](#) – Exploring automation & AI for IT workflows  
+🔹 [Weather AI](#) – An AI-powered weather app delivering forecasts and insights  
 
 
 
