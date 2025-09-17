@@ -10,7 +10,6 @@ my name is Zikhona Bam. I’m an aspiring IT professional skilled in PC hardware
 
 PORTFOLIO
 ---
-
 - ## 🛠️ Tech Stack
 - ![Hardware](https://img.shields.io/badge/Hardware%20Upgrades-000000?style=for-the-badge&logo=windows&logoColor=white) **PC Hardware Upgrades & Repairs**  
 - ![Support](https://img.shields.io/badge/Troubleshooting-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white) **Troubleshooting & Technical Support**  
@@ -22,13 +21,10 @@ PORTFOLIO
 - ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) **Microsoft PowerPoint**  
 - ![Learning](https://img.shields.io/badge/Continuous%20Learning-FF6F00?style=for-the-badge&logo=coursera&logoColor=white) **Professional Development (Coursera & More)**  
 
-
 ## 📂 Featured Projects
 🔹 [AI Study Buddy](#) – Portfolio project with Keras conversion  
 🔹 [Portfolio Website](#) – Showcasing skills, certificates, and projects  
 🔹 [AI Blog Weaver](#) – Exploring automation & AI for IT workflows
-🔹 [AI Study Buddy](#) – Portfolio project with Keras conversion  
-🔹 [Portfolio Website](#) – Showcasing skills, certificates, and projects  
-🔹 [AI Blog Weaver](#) – Exploring automation & AI for IT workflows
+
 
 
