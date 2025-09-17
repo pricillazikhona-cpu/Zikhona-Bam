@@ -60,8 +60,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikhonaBam&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
+---
+
 ## 🔗 Check Out My Repositories
 - [Pricilla Zikhona CPU](https://github.com/pricillazikhona-cpu) – My other projects and contributions
+
 
 
 ---
