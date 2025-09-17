@@ -20,3 +20,15 @@ my name is Zikhona Bam. I’m an aspiring IT professional skilled in PC hardware
 🔹 [Platinum Island](#) – Portfolio project with Keras conversion  
 🔹 [Portfolio Website](#) – Showcasing skills, certificates, and projects  
 🔹 [AI Blog Weaver](#) – Exploring automation & AI for IT workflows  
+
+## 🛠️ Tech Stack
+
+- 💻 **PC Hardware Upgrades & Repairs**  
+- 🔧 **Troubleshooting & Technical Support**  
+- 🌐 **Network Configuration & Security**  
+- 📡 **CompTIA A+ & Network+ Certified Knowledge**  
+- 🤖 **AI Tools & Automation**  
+- 📊 **Microsoft Excel**  
+- 📝 **Microsoft Word**  
+- 📽️ **Microsoft PowerPoint**  
+- 📚 **Professional Development (Coursera & More)**  
