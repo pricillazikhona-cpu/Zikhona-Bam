@@ -2,7 +2,9 @@
 
 <h1 align="center">
   <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" width="80"/>
-  Hi there, I'm Zikhona Bam!
+  Hi there,
+  
+  I'm Zikhona Bam!
  I’m an aspiring IT professional skilled in PC hardware upgrades, troubleshooting, and network configuration. CompTIA A+ & Network+ certified, with projects in technical support, automation, and AI integration. Passionate about continuous learning and innovation.
 
 </h1>
