@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-pricillazikhona@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
