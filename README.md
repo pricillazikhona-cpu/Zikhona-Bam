@@ -27,6 +27,8 @@ PORTFOLIO
 🔹 [AI Study Buddy](#) – Portfolio project with Keras conversion  
 🔹 [Portfolio Website](#) – Showcasing skills, certificates, and projects  
 🔹 [AI Blog Weaver](#) – Exploring automation & AI for IT workflows
-
+🔹 [AI Study Buddy](#) – Portfolio project with Keras conversion  
+🔹 [Portfolio Website](#) – Showcasing skills, certificates, and projects  
+🔹 [AI Blog Weaver](#) – Exploring automation & AI for IT workflows
 
 
