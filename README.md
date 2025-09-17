@@ -36,11 +36,18 @@
 
 ---
 
-## 🏆 Certifications
-- CompTIA A+  
-- CompTIA Network+  
-- Coursera Professional Development & AI Courses  
+---
 
+## 🏆 Certifications
+- **NSC Matric**
+-  **PC Upgrading & Repairing Certificate/Skill**
+- CompTIA A+  
+- CompTIA Network+ 
+- **Data Capture Certificate**
+-  **Security Certificates:** E, D, C  
+- Coursera Professional Development & AI Courses  
+ 
+---
 ---
 
 ## 🎯 Learning Goals
@@ -83,7 +90,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:pricillazikhona@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
