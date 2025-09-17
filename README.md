@@ -15,3 +15,8 @@ my name is Zikhona Bam. I’m an aspiring IT professional skilled in PC hardware
 - 📡 **CompTIA A+ & Network+ Certified Knowledge**  
 - 🤖 **Automation & AI Tools**  
 - 📚 **Professional Development Courses (Coursera & more)
+
+## 📂 Featured Projects
+🔹 [Platinum Island](#) – Portfolio project with Keras conversion  
+🔹 [Portfolio Website](#) – Showcasing skills, certificates, and projects  
+🔹 [AI Blog Weaver](#) – Exploring automation & AI for IT workflows  
