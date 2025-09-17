@@ -79,7 +79,7 @@
 
 ## ✍️ Blogs & Tutorials
 - [How to Upgrade Your PC Efficiently](#)  
-- [AI Tools for IT Professionals](#)  
+- [https://github.com/pricillazikhona-cpu/AI-Tools-for-IT-Professionals](#)  
 
 
 ---
