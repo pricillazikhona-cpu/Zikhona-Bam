@@ -56,8 +56,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Zikhona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZikhonaBam&show_icons=true&theme=radical&hide=issues,contribs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZikhonaBam&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZikhonaBam&show_icons=true&theme=radical&hide=issues,contribs" alt="Zikhona's GitHub Stats" width="48%" /> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZikhonaBam&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
