@@ -75,7 +75,12 @@
 *Tech Used: Python, OpenWeather API, Flask, HTML/CSS*  
 
 🔹 [Sentimental Analyzer](#) – NLP project analyzing text sentiment using AI  
-*Tech Used: Python, NLTK, scikit-learn, Flask*  
+*Tech Used: Python, NLTK, scikit-learn, Flask* 
+
+## ✍️ Blogs & Tutorials
+- [How to Upgrade Your PC Efficiently](#)  
+- [AI Tools for IT Professionals](#)  
+
 
 ---
 
