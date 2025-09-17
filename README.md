@@ -1,12 +1,8 @@
-<!-- Mobile-Friendly Profile README for Zikhona Bam -->
+<!-- Mobile-Friendly GitHub Profile README for Zikhona Bam -->
 
 <h1 align="center">
   <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" width="80"/>
-  Hi there,
-  
-  I'm Zikhona Bam!
- I’m an aspiring IT professional skilled in PC hardware upgrades, troubleshooting, and network configuration. CompTIA A+ & Network+ certified, with projects in technical support, automation, and AI integration. Passionate about continuous learning and innovation.
-
+  Hi there, I'm Zikhona Bam!
 </h1>
 
 ---
@@ -40,7 +36,25 @@
 
 ---
 
-## 📂 Featured Projects
+<details>
+<summary>🏅 Certifications</summary>
+<br>
+- CompTIA A+  
+- CompTIA Network+  
+- Coursera Professional Development & AI Courses
+</details>
+
+<details>
+<summary>🎯 Learning Goals</summary>
+<br>
+- Advanced Networking & Cybersecurity  
+- AI & Machine Learning Projects  
+- Cloud Computing (AWS / Azure)
+</details>
+
+<details>
+<summary>📂 Featured Projects</summary>
+<br>
 🔹 [Portfolio Website](#) – Showcasing skills, certificates, and projects  
 *Tech Used: HTML, CSS, JavaScript, Bootstrap*  
 
@@ -52,18 +66,12 @@
 
 🔹 [Sentimental Analyzer](#) – NLP project analyzing text sentiment using AI  
 *Tech Used: Python, NLTK, scikit-learn, Flask*  
-
----
-## 🔗 Check Out My Repositories
-- [Pricilla Zikhona CPU](https://github.com/pricillazikhona-cpu) – My other projects and contributions
-
+</details>
 
 ---
 
 ## 🔗 Check Out My Repositories
-- [Pricilla Zikhona CPU](https://github.com/pricillazikhona-cpu) – My other projects and contributions
-
-
+- [Pricilla Zikhona CPU](https://github.com/pricillazikhona-cpu) – My other projects and contributions  
 
 ---
 
@@ -73,15 +81,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your-pricillazikhona@gmail.com">
+  <a href="mailto:pricillazikhona@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
+
 ## 🎯 Fun / Personality
 - 📚 Lifelong learner, always exploring new tech  
 - ⚡ Tech enthusiast and problem solver  
 - 💡 Favorite Quote: *"Strive for progress, not perfection."*  
-
-
