@@ -36,25 +36,28 @@
 
 ---
 
-<details>
-<summary>🏅 Certifications</summary>
-<br>
+## 🏆 Certifications
 - CompTIA A+  
 - CompTIA Network+  
-- Coursera Professional Development & AI Courses
-</details>
+- Coursera Professional Development & AI Courses  
 
-<details>
-<summary>🎯 Learning Goals</summary>
-<br>
+---
+
+## 🎯 Learning Goals
 - Advanced Networking & Cybersecurity  
 - AI & Machine Learning Projects  
-- Cloud Computing (AWS / Azure)
-</details>
+- Cloud Computing (AWS / Azure)  
 
-<details>
-<summary>📂 Featured Projects</summary>
-<br>
+---
+
+## 🖥️ Tools & Software
+- Visual Studio Code, Git, GitHub  
+- CPU/PC troubleshooting tools  
+- Networking analyzers and configuration tools  
+
+---
+
+## 📂 Featured Projects
 🔹 [Portfolio Website](#) – Showcasing skills, certificates, and projects  
 *Tech Used: HTML, CSS, JavaScript, Bootstrap*  
 
@@ -66,7 +69,6 @@
 
 🔹 [Sentimental Analyzer](#) – NLP project analyzing text sentiment using AI  
 *Tech Used: Python, NLTK, scikit-learn, Flask*  
-</details>
 
 ---
 
@@ -81,7 +83,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:pricillazikhona@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
