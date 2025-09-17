@@ -73,9 +73,9 @@
 </p>
 
 ---
-
 ## 🎯 Fun / Personality
 - 📚 Lifelong learner, always exploring new tech  
-- 🎮 Gamer and tech enthusiast  
+- ⚡ Tech enthusiast and problem solver  
 - 💡 Favorite Quote: *"Strive for progress, not perfection."*  
+
 
