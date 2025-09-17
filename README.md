@@ -8,15 +8,7 @@ my name is Zikhona Bam. I’m an aspiring IT professional skilled in PC hardware
 
 ---
 
-## 🛠️ Technical Skills
-- 💻 **PC Hardware Upgrades & Repairs**  
-- 🔧 **Troubleshooting & Technical Support**  
-- 🌐 **Network Configuration & Security**  
-- 📡 **CompTIA A+ & Network+ Certified Knowledge**  
-- 🤖 **Automation & AI Tools**  
-- 📚 **Professional Development Courses (Coursera & more)
 - ## 🛠️ Tech Stack
-
 - ![Hardware](https://img.shields.io/badge/Hardware%20Upgrades-000000?style=for-the-badge&logo=windows&logoColor=white) **PC Hardware Upgrades & Repairs**  
 - ![Support](https://img.shields.io/badge/Troubleshooting-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white) **Troubleshooting & Technical Support**  
 - ![Network](https://img.shields.io/badge/Networking-00C7B7?style=for-the-badge&logo=cisco&logoColor=white) **Network Configuration & Security**  
