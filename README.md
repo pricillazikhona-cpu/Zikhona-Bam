@@ -16,8 +16,9 @@ PORTFOLIO
 ## 📂 Featured Projects
 🔹 [Portfolio Website](#) – Showcasing skills, certificates, and projects  
 🔹 [AI Blog Weaver](#) – Exploring automation & AI for IT workflows  
-🔹 [Weather AI](#) – An AI-powered weather app delivering forecasts and insights 
-🔹 [Sentimental Analyzer](#) – NLP project analyzing text sentiment using AI
+🔹 [Weather AI](#) – An AI-powered weather app delivering forecasts and insights  
+🔹 [Sentimental Analyzer](#) – NLP project analyzing text sentiment using AI  
+
 
 
 
