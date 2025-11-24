@@ -38,29 +38,49 @@
 
 ---
 
-## 🏆 Certifications
+## ## 🏆 Certifications
 - **NSC Matric**
--  **PC Upgrading & Repairing Certificate/Skill**
-- CompTIA A+  
-- CompTIA Network+ 
+- **PC Upgrading & Repairing Certificate/Skill**
+- **CompTIA A+**
+- **CompTIA Network+**
 - **Data Capture Certificate**
--  **Security Certificates:** E, D, C  
-- Coursera Professional Development & AI Courses  
+- **Security Certificates:** E, D, C
+- **Coursera Professional Development & AI Courses**
+- **Google IT Support Professional Certificate (Coursera, 2025)**
+  - Technical Support Fundamentals
+  - The Bits and Bytes of Computer Networking
+  - Operating Systems and You: Becoming a Power User
+  - System Administration & IT Infrastructure Services
+  - IT Security: Defense Against the Digital Dark Arts
+- **IT Automation with Python (Coursera, 2025)**
+- **Cybersecurity Fundamentals (Coursera, 2025)**
+- **Accelerate Your Job Search with AI (Coursera, 2025)**
+
  
 ---
 ---
 
-## 🎯 Learning Goals
+## # 🎯 Learning Goals
 - Advanced Networking & Cybersecurity  
 - AI & Machine Learning Projects  
-- Cloud Computing (AWS / Azure)  
+- Cloud Computing (AWS / Azure / Google Cloud)  
+- System Administration & IT Infrastructure Services  
+- IT Security: Defense Against Digital Threats  
+- Automation & Scripting with Python  
+- Continuous Professional Development in AI Tools  
+- Career Acceleration & Job Search Strategies with AI  
+
 
 ---
 
 ## 🖥️ Tools & Software
-- Visual Studio Code, Git, GitHub  
-- CPU/PC troubleshooting tools  
-- Networking analyzers and configuration tools  
+- **Networking Tools:** Wireshark, Cisco Packet Tracer, Nmap  
+- **Cybersecurity Tools:** Kali Linux, Metasploit, Snort, Nessus  
+- **System Administration:** Linux (Ubuntu), Windows Server, Active Directory  
+- **Automation & Scripting:** Python, Bash, PowerShell  
+- **Cloud Platforms:** AWS, Microsoft Azure, Google Cloud Platform  
+- **AI & Data Tools:** TensorFlow, Scikit-learn, Jupyter Notebook  
+- **Collaboration & Documentation:** GitHub, Confluence, Trello  
 
 ---
 
